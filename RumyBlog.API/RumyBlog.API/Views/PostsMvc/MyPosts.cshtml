@@ -1,0 +1,63 @@
+﻿@model List<RumyBlog.API.DTOs.PostListDto>
+
+@{
+    ViewData["Title"] = "Benim Bloglarım";
+    Layout = "_Layout";
+}
+
+<h2>📌 Benim Bloglarım</h2>
+
+@if (!Model.Any())
+{
+    <p>Henüz blog paylaşmadın.</p>
+}
+else
+{
+    <div class="blog-list">
+        @foreach (var post in Model)
+        {
+            <div class="blog-card">
+
+                @if (!string.IsNullOrEmpty(post.FilePath))
+                {
+                    <img src="https://localhost:44375/@post.FilePath.Replace("\\", "/")"
+                         class="blog-image" />
+                }
+
+                <h3>@post.Title</h3>
+                <p>@post.Content</p>
+
+                <div class="btn-delete">
+                    <!-- ✅ GÜNCELLE -->
+                    <a class="btn-update"
+                       href="/PostsMvc/Edit/@post.Id">
+                        Güncelle
+                    </a>
+
+                    <!-- ❌ SİL -->
+                    <button class="btn-delete"
+                            onclick="deletePost(@post.Id)">
+                        Sil
+                    </button>
+                </div>
+
+            </div>
+        }
+    </div>
+}
+
+<script>
+    async function deletePost(postId) {
+        if (!confirm("Bu blog silinsin mi?")) return;
+
+        const response = await fetch(`/PostsMvc/Delete/${postId}`, {
+            method: "POST"
+        });
+
+        if (response.ok) {
+            location.reload();
+        } else {
+            alert("Silme işlemi başarısız");
+        }
+    }
+</script>

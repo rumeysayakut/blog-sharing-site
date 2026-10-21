@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\controllers\\postsmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\controllers\\postsmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\rumyblog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\rumyblog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\views\\postsmvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\views\\postsmvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\dtos\\postupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\dtos\\postupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\views\\postsmvc\\myposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\views\\postsmvc\\myposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\views\\postsmvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\views\\postsmvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|c:\\users\\asus\\source\\repos\\rumyblog.api\\rumyblog.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3C4AA7-E27B-4BA2-A953-13A313935C63}|RumyBlog.API\\RumyBlog.API.csproj|solutionrelative:rumyblog.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Program.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Program.cs",
+              "RelativeToolTip": "RumyBlog.API\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:49:00.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RumyBlog.API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T22:03:10.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "profile.css",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\wwwroot\\css\\profile.css",
+              "RelativeDocumentMoniker": "RumyBlog.API\\wwwroot\\css\\profile.css",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\wwwroot\\css\\profile.css",
+              "RelativeToolTip": "RumyBlog.API\\wwwroot\\css\\profile.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-14T21:59:52.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RumyBlog.API.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\RumyBlog.API.csproj",
+              "RelativeDocumentMoniker": "RumyBlog.API\\RumyBlog.API.csproj",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\RumyBlog.API.csproj",
+              "RelativeToolTip": "RumyBlog.API\\RumyBlog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T21:48:22.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Views\\PostsMvc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Views\\PostsMvc\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Views\\PostsMvc\\Edit.cshtml",
+              "RelativeToolTip": "RumyBlog.API\\Views\\PostsMvc\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T16:57:55.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\DTOs\\PostUpdateDto.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\DTOs\\PostUpdateDto.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\DTOs\\PostUpdateDto.cs",
+              "RelativeToolTip": "RumyBlog.API\\DTOs\\PostUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:04:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RumyBlog.API\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RumyBlog.API\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAANgAAAAAAAAAAAAowO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-14T14:58:44.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Views\\PostsMvc\\Create.cshtml",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Views\\PostsMvc\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Views\\PostsMvc\\Create.cshtml",
+              "RelativeToolTip": "RumyBlog.API\\Views\\PostsMvc\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T12:13:13.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyPosts.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Views\\PostsMvc\\MyPosts.cshtml",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Views\\PostsMvc\\MyPosts.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Views\\PostsMvc\\MyPosts.cshtml",
+              "RelativeToolTip": "RumyBlog.API\\Views\\PostsMvc\\MyPosts.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T12:12:59.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Models\\User.cs",
+              "RelativeToolTip": "RumyBlog.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:11:28.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Models\\Post.cs",
+              "RelativeToolTip": "RumyBlog.API\\Models\\Post.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:11:24.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RumyBlog.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:09:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostsMvcController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\PostsMvcController.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Controllers\\PostsMvcController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\PostsMvcController.cs",
+              "RelativeToolTip": "RumyBlog.API\\Controllers\\PostsMvcController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA2wDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:09:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "RumyBlog.API\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:08:52.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RumyBlog.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:08:48.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RumyBlog.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:08:15.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RumyBlog.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\RumyBlog.API\\RumyBlog.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RumyBlog.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T12:07:58.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

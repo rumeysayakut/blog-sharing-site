@@ -1,0 +1,50 @@
+﻿.post-form {
+    max-width: 700px;
+    margin: 40px auto;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.1);
+}
+
+    .post-form h2 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .post-form input[type="text"],
+    .post-form textarea {
+        width: 100%;
+        padding: 14px;
+        border-radius: 10px;
+        border: 1px solid #ddd;
+        font-size: 15px;
+        margin-bottom: 16px;
+        resize: none;
+    }
+
+    .post-form textarea {
+        height: 220px; /* 🔥 İÇERİK ALANI BÜYÜK */
+        line-height: 1.6;
+    }
+
+    .post-form input[type="file"] {
+        margin-bottom: 20px;
+    }
+
+    .post-form button {
+        width: 100%;
+        padding: 14px;
+        border: none;
+        border-radius: 12px;
+        background: #6a5acd;
+        color: white;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background 0.3s;
+    }
+
+        .post-form button:hover {
+            background: #5848c2;
+        }

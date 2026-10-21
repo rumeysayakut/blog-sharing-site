@@ -1,0 +1,33 @@
+﻿
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - RumyBlog</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+
+    <div class="app-container">
+
+        
+        <aside class="sidebar">
+            <h2 class="logo">RumyBlog</h2>
+
+            <nav>
+                <a href="/Home/Index">🏠 Anasayfa</a>
+                <a href="/PostsMvc/Create">📝 Blog Paylaş</a>
+                <a href="/PostsMvc/MyPosts">📄 Benim Bloglarım</a>
+                <a href="/Account/Login">🚪 Çıkış</a>
+            </nav>
+        </aside>
+
+ 
+        <section class="page-content">
+            @RenderBody()
+        </section>
+
+    </div>
+
+</body>
+</html>

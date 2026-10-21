@@ -1,0 +1,30 @@
+﻿.profile-card {
+    width: 400px;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+.btn {
+    margin-top: 15px;
+    padding: 10px;
+    background: #6a0dad;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.danger {
+    background: #c0392b;
+}

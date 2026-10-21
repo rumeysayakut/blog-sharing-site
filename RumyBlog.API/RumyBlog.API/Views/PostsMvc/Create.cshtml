@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Blog Paylaşma";
+    Layout = "_Layout";
+}
+
+
+
+<link rel="stylesheet" href="~/css/post.css" />
+
+<div class="post-form">
+    <h2>📝 Blog Paylaş</h2>
+
+    <form asp-action="Create"
+          asp-controller="PostsMvc"
+          method="post"
+          enctype="multipart/form-data">
+
+        <input type="text" name="Title" placeholder="Başlık" required />
+
+        <textarea name="Content"
+                  placeholder="Blog içeriğini buraya yaz..."
+                  required></textarea>
+
+        <input type="file" name="File" />
+
+        <button type="submit">Paylaş</button>
+    </form>
+
+    @if (ViewBag.Error != null)
+    {
+        <p style="color:red; margin-top:10px">@ViewBag.Error</p>
+    }
+</div>

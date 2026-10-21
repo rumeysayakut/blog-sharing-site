@@ -1,0 +1,44 @@
+﻿@using RumyBlog.API.DTOs
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    ViewData["Title"] = "Anasayfa";
+    Layout = "_Layout";
+}
+
+@model List<PostListDto>
+
+<main class="content">
+    <h1>Tüm Bloglar 📝</h1>
+
+    <div class="blog-list">
+        @foreach (var post in Model)
+        {
+            <div class="blog-card">
+
+                @if (!string.IsNullOrEmpty(post.FilePath))
+                {
+                    <img src="https://localhost:44375/@post.FilePath.Replace("\\", "/")"
+                         class="blog-image"
+                         alt="Blog görseli" />
+
+                }
+
+
+
+                <div class="blog-body">
+                    <h3>@post.Title</h3>
+
+                    <p>@post.Content</p>
+
+                    <span class="author">✍️ @post.UserEmail</span>
+                </div>
+
+            </div>
+        }
+    </div>
+</main>
