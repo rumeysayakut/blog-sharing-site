@@ -69,3 +69,9 @@ Web Arayüzü: https://localhost:44575/Account/Login
 
 
 Swagger UI: https://localhost:44575/swagger/index.html
+
+
+<img width="1600" height="633" alt="image" src="https://github.com/user-attachments/assets/4734b924-98f0-4995-a14f-bbd0336299ee" /><br>
+<img width="1600" height="648" alt="image" src="https://github.com/user-attachments/assets/7490e6cb-58fb-40fb-8a17-0961eaa9eda6" />
+
+
